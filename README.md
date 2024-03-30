@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Isha Mishra</h1>
 <h3 align="center">A passionate front end developer from India</h3>
 
+![image](https://github.com/isha6755/isha6755/assets/148615613/c823d276-df28-47d2-8c2e-550a7d255d55)
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isha6755&label=Profile%20views&color=0e75b6&style=flat" alt="isha6755" /> </p>
 
 <h3 align="left">Connect with me:</h3>
